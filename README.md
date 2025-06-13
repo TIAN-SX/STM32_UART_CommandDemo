@@ -17,7 +17,7 @@
 - `Core/`：用户主代码目录（main.c）
 - `Drivers/`：HAL 库和外设驱动代码
 - `MDK-ARM/`：Keil 工程目录
-- `Startup/`：启动文件（如有）
+- `Startup/`：启动文件
 
 ## 💡 串口命令解析逻辑说明
 
